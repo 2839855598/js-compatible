@@ -1,18 +1,3 @@
-<style>
-/*设置table，让td宽度 空格 换行*/
-table {
-  max-width: 890px;
-  word-wrap: break-word; 
-  word-break: break-all;
-  font-size: 14px;
-  text-align: left;
-}
-table thead th {
-  width: 120px;
-} 
-
-
-</style>
 
 <table>
     <thead>
