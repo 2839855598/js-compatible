@@ -14,7 +14,7 @@ table thead th {
 
 </style>
 
-<table>
+<table style="font-size: 12px;">
     <thead>
         <tr>
             <th></th>
