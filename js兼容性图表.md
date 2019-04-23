@@ -17,7 +17,7 @@ table thead th {
 <table>
     <thead>
         <tr>
-            <th>属性</th>
+            <th style="font-size:12px;">属性</th>
             <th>IE7-</th>
             <th>IE8+</th>
             <th>IE8-</th>
