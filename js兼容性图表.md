@@ -2,7 +2,7 @@
 <table>
     <thead>
         <tr>
-            <th style="font-size:12px;">属性</th>
+            <th></th>
             <th>IE7-</th>
             <th>IE8+</th>
             <th>IE8-</th>
