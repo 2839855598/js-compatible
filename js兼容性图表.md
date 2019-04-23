@@ -14,10 +14,10 @@ table thead th {
 
 </style>
 
-<table style="font-size: 12px;">
+<table>
     <thead>
         <tr>
-            <th></th>
+            <th>属性</th>
             <th>IE7-</th>
             <th>IE8+</th>
             <th>IE8-</th>
